@@ -101,9 +101,9 @@ code {
 
 @media (max-width: 1000px){
     body{
-        background-color: aquamarine;
+        background-color: rgb(222, 255, 244);
     }
     code{
-        background-color: bisque;
+        background-color: rgb(255, 245, 233);
     }
 }
